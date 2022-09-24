@@ -1,19 +1,18 @@
 {
-  "posts": [
+  "student_data": [
     {
-      "id": 1,
-      "title": "Hello World",
-      "body": "Quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
-    },
-    {
-      "id": 2,
-      "title": "Eum Et Est Occaecati",
-      "body": "Recusandae consequuntur expedita et cum\nreprehenderit ut quas totam\nautem sunt rem eveniet architecto"
+      "firstName": "Prathmesh",
+      "middleName": "Anil",
+      "lastName": "Nerle",
+      "batch": "III",
+      "division": "C",
+      "roll": "99",
+      "ad1": "old chame house,ahemedhpur-413515",
+      "ad2": "old chame house,ahemedhpur-413515",
+      "landmark": "Near Howrah Bridge",
+      "city": "Latur",
+      "pin": "413515",
+      "id": 1
     }
-  ],
-  "register":[],
-  "details":[],
-  "Data":[]
-
-
+  ]
 }
